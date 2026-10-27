@@ -1,0 +1,20 @@
+data/
+__pycache__/
+*.pyc
+
+# ai 工具本地设置
+
+.claude/settings.local.json
+.cursor/
+.aider*
+.continue/
+.cody/
+
+# 密钥和凭证
+
+*.pem
+*.key
+credentials.json
+.npmrc
+.aws/
+.ssh/
